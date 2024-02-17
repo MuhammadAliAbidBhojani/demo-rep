@@ -1,2 +1,2 @@
 # demo-rep
-Learning GIt
+Learning Git.
